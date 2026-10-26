@@ -1,0 +1,5 @@
+config.json
+*.bak
+.venv/
+downloads/
+__pycache__/
